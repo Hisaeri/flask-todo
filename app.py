@@ -1,5 +1,3 @@
-from crypt import methods
-from warnings import catch_warnings
 from flask import Flask, redirect, render_template, request, redirect
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
