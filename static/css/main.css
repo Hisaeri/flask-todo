@@ -1,0 +1,21 @@
+ body {
+     margin: 0;
+     font-family: sans-serif;
+ }
+
+ .content {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+ }
+
+ td {
+     text-align: center;
+     padding: 5px;
+ } 
+
+ table {
+     width: 100%;
+     margin: 20px;
+ }
